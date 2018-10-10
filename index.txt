@@ -7,6 +7,12 @@ from branch develop!
 
 läuft jetzt auf develop2 branch....
 
+<<<<<<< HEAD
 mergen mit rebase DK
 
 testing rebase by Ming
+=======
+from branch develop!
+
+mergen mit rebase DK
+>>>>>>> f789aaa5439b9a8012a22f4b26b661f86e998203
