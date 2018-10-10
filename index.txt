@@ -1,2 +1,4 @@
 Hello, I'm Ming.
 Something else
+
+Hello, and I am Daniel :-)
